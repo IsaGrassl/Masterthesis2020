@@ -1,0 +1,2354 @@
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:'charmap' codec can't encode character '\uff08' in position 87: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\269026678.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\281466214.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode characters in position 15-17: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\304305350.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode characters in position 15-16: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\323087701.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode character '\uacf5' in position 15: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\337862725.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode characters in position 15-19: character maps to <undefined>
+INFO:root:'charmap' codec can't encode characters in position 24-27: character maps to <undefined>
+INFO:root:'charmap' codec can't encode character '\u266a' in position 97: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\347689172.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode characters in position 22-23: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\348769280.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode characters in position 15-18: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\351681564.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode characters in position 15-22: character maps to <undefined>
+INFO:root:'charmap' codec can't encode character '\u015f' in position 15: character maps to <undefined>
+INFO:root:'charmap' codec can't encode characters in position 33-68: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\353897346.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode characters in position 181-182: character maps to <undefined>
+INFO:root:'charmap' codec can't encode characters in position 15-21: character maps to <undefined>
+INFO:root:'charmap' codec can't encode character '\u2193' in position 235: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\354386216.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode character '\u2744' in position 16: character maps to <undefined>
+INFO:root:'charmap' codec can't encode character '\u2193' in position 245: character maps to <undefined>
+INFO:root:'charmap' codec can't encode characters in position 15-16: character maps to <undefined>
+INFO:root:'charmap' codec can't encode character '\u2665' in position 178: character maps to <undefined>
+INFO:root:'charmap' codec can't encode characters in position 15-32: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355406251.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode characters in position 15-19: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355702989.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355724407.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355725861.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355739669.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode characters in position 15-34: character maps to <undefined>
+INFO:root:Unsuccessful project: 355765092 Reason: Project has less than 2 targets
+INFO:root:'charmap' codec can't encode characters in position 15-18: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356067812.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356068053.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode characters in position 15-16: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356163038.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode character '\u2192' in position 61: character maps to <undefined>
+INFO:root:'charmap' codec can't encode characters in position 15-22: character maps to <undefined>
+INFO:root:'charmap' codec can't encode character '\u2741' in position 15: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356317888.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356317935.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode characters in position 15-19: character maps to <undefined>
+INFO:root:'charmap' codec can't encode character '\u010d' in position 51: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: 356468786 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: 356498736 Reason: Project has less than 2 targets
+INFO:root:'charmap' codec can't encode character '\u0131' in position 16: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356513007.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356519374.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode character '\u2192' in position 41: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356796445.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode character '\u2601' in position 16: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357065503.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode characters in position 49-50: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357134863.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode characters in position 15-21: character maps to <undefined>
+INFO:root:Unsuccessful project: 357145332 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357182139.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode character '\u0107' in position 46: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357381699.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357416943.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode character '\u1ecd' in position 20: character maps to <undefined>
+INFO:root:'charmap' codec can't encode characters in position 15-31: character maps to <undefined>
+INFO:root:'charmap' codec can't encode characters in position 22-53: character maps to <undefined>
+INFO:root:'charmap' codec can't encode character '\u016f' in position 76: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode character '\u30c4' in position 587: character maps to <undefined>
+INFO:root:Unsuccessful project: 357866793 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\358575582.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode character '\u0101' in position 59: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode characters in position 43-44: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\359273208.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode characters in position 33-44: character maps to <undefined>
+INFO:root:'charmap' codec can't encode characters in position 15-23: character maps to <undefined>
+INFO:root:'charmap' codec can't encode characters in position 15-19: character maps to <undefined>
+INFO:root:'charmap' codec can't encode characters in position 15-23: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\362225141.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode characters in position 15-28: character maps to <undefined>
+INFO:root:'charmap' codec can't encode character '\u8d70' in position 19: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode character '\u8eca' in position 15: character maps to <undefined>
+INFO:root:'charmap' codec can't encode character '\u2570' in position 64: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\365195263.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\367586687.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\367839259.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode characters in position 15-23: character maps to <undefined>
+INFO:root:'charmap' codec can't encode character '\u2192' in position 50: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\370210840.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 370341907 Reason: Project has less than 2 targets
+INFO:root:'charmap' codec can't encode character '\u2192' in position 49: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\370702092.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode characters in position 29-31: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode character '\u2192' in position 43: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372182910.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode character '\u2735' in position 15: character maps to <undefined>
+INFO:root:'charmap' codec can't encode character '\u0131' in position 57: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372730640.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372973488.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode character '\u2606' in position 15: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode character '\u2b50' in position 251: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\374304268.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\374397750.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode characters in position 124-127: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: 375388712 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\375409459.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\375662055.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode character '\u27f6' in position 70: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376172354.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376398825.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode characters in position 220-228: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376625370.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376675890.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376698079.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376726626.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376771503.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode character '\u2192' in position 38: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376789914.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode characters in position 15-23: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377209912.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377269164.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377301106.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377518816.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377523366.json Reason: Project is not readable maximum recursion depth exceeded while calling a Python object
+INFO:root:'charmap' codec can't encode character '\u98a8' in position 21: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377687254.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: 377890738 Reason: Project has less than 2 targets
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode characters in position 15-16: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode character '\u2192' in position 48: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378364886.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: 378440894 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378572835.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378619620.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378975280.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode characters in position 15-89: character maps to <undefined>
+INFO:root:Unsuccessful project: 378987494 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378997071.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode characters in position 15-22: character maps to <undefined>
+INFO:root:'charmap' codec can't encode character '\u0ca0' in position 100: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379253657.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379543979.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379593729.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\380086897.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode character '\u2192' in position 76: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\380823586.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode character '\u25d8' in position 43: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode character '\u21fe' in position 15: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\381953815.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode character '\u2764' in position 15: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: 383259516 Reason: Project has less than 2 targets
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode character '\u3000' in position 25: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383302810.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383325871.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383579395.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383604835.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode characters in position 107-108: character maps to <undefined>
+INFO:root:'charmap' codec can't encode character '\u2748' in position 15: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383903449.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode character '\u3010' in position 36: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\384409001.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: 384782017 Reason: Project has less than 2 targets
+INFO:root:'charmap' codec can't encode character '\u0131' in position 176: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\384818572.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode character '\u2665' in position 93: character maps to <undefined>
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\385092592.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\385121569.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:'charmap' codec can't encode character '\u012f' in position 78: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386098682.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386193975.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386780140.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386906490.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:'charmap' codec can't encode characters in position 16-18: character maps to <undefined>
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\387209779.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\269026678.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\281466214.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\304305350.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\323087701.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\337862725.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\347689172.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\348769280.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\351681564.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\353897346.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\354386216.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355406251.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355702989.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355724407.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355725861.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355739669.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 355765092 Reason: Project has less than 2 targets
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356067812.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356068053.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356163038.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356317888.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356317935.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: 356468786 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: 356498736 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356513007.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356519374.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356796445.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357065503.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357134863.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 357145332 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357182139.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357381699.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357416943.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: 357866793 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\358575582.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\359273208.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\362225141.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\365195263.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\367586687.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\367839259.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\370210840.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 370341907 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\370702092.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372182910.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372730640.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372973488.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\374304268.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\374397750.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: 375388712 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\375409459.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\375662055.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376172354.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376398825.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376625370.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376675890.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376698079.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376726626.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376771503.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376789914.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377209912.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377269164.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377301106.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377518816.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377523366.json Reason: Project is not readable maximum recursion depth exceeded while calling a Python object
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377687254.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: 377890738 Reason: Project has less than 2 targets
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378364886.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: 378440894 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378572835.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378619620.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378975280.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 378987494 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378997071.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379253657.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379543979.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379593729.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\380086897.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\380823586.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\381953815.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: 383259516 Reason: Project has less than 2 targets
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383302810.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383325871.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383579395.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383604835.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383903449.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\384409001.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: 384782017 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\384818572.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\385092592.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\385121569.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386098682.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386193975.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386780140.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386906490.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\387209779.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Number of processed projects: 1000/1000 Elapsed Time: 55.39402794837952 sec, ETA: 55.44947742580533sec
+INFO:root:local variable 'project_metainfo' referenced before assignment
+INFO:root:Total Number of successful projects 821
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\269026678.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\281466214.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\304305350.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\323087701.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\337862725.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\347689172.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\348769280.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\351681564.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\353897346.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\354386216.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355406251.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355702989.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355724407.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355725861.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355739669.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 355765092 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356067812.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356068053.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356163038.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356317888.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356317935.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 356468786 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: 356498736 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356513007.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356519374.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356796445.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357065503.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357134863.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 357145332 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357182139.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357381699.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357416943.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 357866793 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\358575582.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\359273208.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\362225141.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\365195263.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\367586687.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\367839259.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\370210840.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 370341907 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\370702092.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372182910.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372730640.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372973488.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\374304268.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\374397750.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 375388712 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\375409459.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\375662055.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376172354.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376398825.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376625370.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376675890.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376698079.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376726626.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376771503.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376789914.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377209912.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377269164.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377301106.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377518816.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377523366.json Reason: Project is not readable maximum recursion depth exceeded while calling a Python object
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377687254.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 377890738 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378364886.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 378440894 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378572835.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378619620.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378975280.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 378987494 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378997071.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379253657.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379543979.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379593729.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\380086897.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\380823586.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\381953815.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 383259516 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383302810.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383325871.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383579395.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383604835.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383903449.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\384409001.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 384782017 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\384818572.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\385092592.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\385121569.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386098682.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386193975.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386780140.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386906490.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\387209779.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Number of processed projects: 1000/1000 Elapsed Time: 50.35887789726257 sec, ETA: 50.409287184447024sec
+INFO:root:Total Number of successful projects 906
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\269026678.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\281466214.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\304305350.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\323087701.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\337862725.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\347689172.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\348769280.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\351681564.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\353897346.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\354386216.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355406251.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355702989.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355724407.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355725861.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355739669.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 355765092 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356067812.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356068053.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356163038.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356317888.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356317935.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 356468786 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: 356498736 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356513007.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356519374.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356796445.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357065503.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357134863.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 357145332 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357182139.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357381699.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357416943.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 357866793 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\358575582.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\359273208.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\362225141.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\365195263.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\367586687.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\367839259.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\370210840.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 370341907 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\370702092.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372182910.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372730640.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372973488.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\374304268.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\374397750.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 375388712 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\375409459.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\375662055.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376172354.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376398825.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376625370.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376675890.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376698079.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376726626.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376771503.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376789914.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377209912.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377269164.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377301106.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377518816.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377523366.json Reason: Project is not readable maximum recursion depth exceeded while calling a Python object
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377687254.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 377890738 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378364886.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 378440894 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378572835.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378619620.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378975280.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 378987494 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378997071.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379253657.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379543979.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379593729.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\380086897.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\380823586.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\381953815.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 383259516 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383302810.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383325871.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383579395.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383604835.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383903449.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\384409001.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 384782017 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\384818572.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\385092592.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\385121569.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386098682.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386193975.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386780140.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386906490.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\387209779.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Number of processed projects: 1000/1000 Elapsed Time: 56.976412296295166 sec, ETA: 57.03344574203721sec
+INFO:root:Total Number of successful projects 906
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\269026678.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\281466214.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\304305350.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\323087701.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\337862725.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\347689172.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\348769280.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\351681564.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\353897346.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\354386216.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355406251.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355702989.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355724407.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355725861.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355739669.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 355765092 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356067812.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356068053.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356163038.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356317888.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356317935.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 356468786 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: 356498736 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356513007.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356519374.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356796445.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357065503.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357134863.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 357145332 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357182139.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357381699.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357416943.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 357866793 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\358575582.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\359273208.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\362225141.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\365195263.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\367586687.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\367839259.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\370210840.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 370341907 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\370702092.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372182910.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372730640.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372973488.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\374304268.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\374397750.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 375388712 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\375409459.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\375662055.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376172354.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376398825.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376625370.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376675890.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376698079.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376726626.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376771503.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376789914.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377209912.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377269164.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377301106.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377518816.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377523366.json Reason: Project is not readable maximum recursion depth exceeded while calling a Python object
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377687254.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 377890738 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378364886.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 378440894 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378572835.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378619620.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378975280.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 378987494 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378997071.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379253657.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379543979.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379593729.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\380086897.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\380823586.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\381953815.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 383259516 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383302810.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383325871.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383579395.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383604835.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383903449.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\384409001.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 384782017 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\384818572.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\385092592.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\385121569.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386098682.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386193975.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386780140.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386906490.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\387209779.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Number of processed projects: 1000/1000 Elapsed Time: 52.185402631759644 sec, ETA: 52.23764027203168sec
+INFO:root:Total Number of successful projects 906
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\269026678.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\281466214.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\304305350.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\323087701.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\337862725.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\347689172.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\348769280.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\351681564.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\353897346.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\354386216.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355406251.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355702989.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355724407.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355725861.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355739669.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 355765092 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356067812.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356068053.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356163038.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356317888.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356317935.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 356468786 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: 356498736 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356513007.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356519374.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356796445.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357065503.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357134863.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 357145332 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357182139.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357381699.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357416943.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 357866793 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\358575582.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\359273208.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\362225141.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\365195263.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\367586687.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\367839259.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\370210840.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 370341907 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\370702092.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372182910.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372730640.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372973488.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\374304268.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\374397750.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 375388712 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\375409459.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\375662055.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376172354.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376398825.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376625370.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376675890.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376698079.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376726626.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376771503.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376789914.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377209912.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377269164.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377301106.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377518816.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377523366.json Reason: Project is not readable maximum recursion depth exceeded while calling a Python object
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377687254.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 377890738 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378364886.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 378440894 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378572835.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378619620.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378975280.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 378987494 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378997071.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379253657.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379543979.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379593729.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\380086897.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\380823586.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\381953815.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 383259516 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383302810.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383325871.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383579395.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383604835.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383903449.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\384409001.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 384782017 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\384818572.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\385092592.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\385121569.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386098682.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386193975.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386780140.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386906490.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\387209779.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Number of processed projects: 1000/1000 Elapsed Time: 50.33420157432556 sec, ETA: 50.38458616048605sec
+INFO:root:Total Number of successful projects 906
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:Number of processed projects: 1000/1000 Elapsed Time: 48.35164833068848 sec, ETA: 48.40004837906755sec
+INFO:root:Total Number of successful projects 1000
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:Number of finished: 0
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:Number of finished: 0
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:Number of finished: 0
+INFO:root:212420160
+INFO:root:212420160.json
+INFO:root:213474903
+INFO:root:213474903.json
+INFO:root:239410337
+INFO:root:239410337.json
+INFO:root:269026678
+INFO:root:269026678.json
+INFO:root:281466214
+INFO:root:281466214.json
+INFO:root:282346302
+INFO:root:282346302.json
+INFO:root:285552233
+INFO:root:285552233.json
+INFO:root:300831083
+INFO:root:300831083.json
+INFO:root:302685170
+INFO:root:302685170.json
+INFO:root:303332539
+INFO:root:303332539.json
+INFO:root:304305350
+INFO:root:304305350.json
+INFO:root:308838484
+INFO:root:308838484.json
+INFO:root:319646684
+INFO:root:319646684.json
+INFO:root:320534754
+INFO:root:320534754.json
+INFO:root:320628819
+INFO:root:320628819.json
+INFO:root:323087701
+INFO:root:323087701.json
+INFO:root:323811836
+INFO:root:323811836.json
+INFO:root:325567912
+INFO:root:325567912.json
+INFO:root:327496914
+INFO:root:327496914.json
+INFO:root:333814542
+INFO:root:333814542.json
+INFO:root:336807664
+INFO:root:336807664.json
+INFO:root:337563042
+INFO:root:337563042.json
+INFO:root:337583377
+INFO:root:337583377.json
+INFO:root:337862725
+INFO:root:337862725.json
+INFO:root:338478955
+INFO:root:338478955.json
+INFO:root:339247985
+INFO:root:339247985.json
+INFO:root:340591348
+INFO:root:340591348.json
+INFO:root:341531412
+INFO:root:341531412.json
+INFO:root:342688099
+INFO:root:342688099.json
+INFO:root:343091980
+INFO:root:343091980.json
+INFO:root:343918207
+INFO:root:343918207.json
+INFO:root:346199708
+INFO:root:346199708.json
+INFO:root:346202152
+INFO:root:346202152.json
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:Number of finished: 0
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:Number of finished: 0
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:Number of finished: 0
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:Number of finished: 0
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:Number of finished: 0
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:Number of finished: 0
+INFO:root:Number of processed projects: 1000/1000 Elapsed Time: 49.227458238601685 sec, ETA: 49.276734973575266sec
+INFO:root:Total Number of successful projects 1000
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:Number of finished: 0
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:is_existing: True
+INFO:root:Number of projects total: 1000
+INFO:root:Number of finished: 0
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:is_existing: True
+INFO:root:reader
+INFO:root:Number of projects total: 1000
+INFO:root:Number of finished: 0
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:reader
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:row
+INFO:root:Number of projects total: 1000
+INFO:root:Number of finished: 1322
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:reader
+INFO:root:Number of projects total: 1000
+INFO:root:Number of finished: 2281
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:Number of finished: 0
+INFO:root:Number of processed projects: 1000/1000 Elapsed Time: 49.596883058547974 sec, ETA: 49.64652958813611sec
+INFO:root:Total Number of successful projects 1000
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:reader
+INFO:root:Number of projects total: 1000
+INFO:root:Number of finished: 1000
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:reader
+INFO:root:Number of projects total: 0
+INFO:root:Number of finished: 1113
+INFO:root:Total Number of successful projects 0
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 0
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of finished: 1113
+INFO:root:Number of projects total: 0
+INFO:root:Total Number of successful projects 0

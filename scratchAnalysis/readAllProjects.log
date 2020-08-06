@@ -1,0 +1,720 @@
+INFO:root:Current input folder: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample
+INFO:root:Current output folder: C:\Users\Isabella\Documents\Masterthesis\Code\out\
+INFO:root:Start processing all projects:
+INFO:root:Number of projects total: 1000
+INFO:root:Unsuccessful project: 212420160 Reason: Project has no comments
+INFO:root:Unsuccessful project: 239410337 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\269026678.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\281466214.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 282346302 Reason: Project has no comments
+INFO:root:Unsuccessful project: 285552233 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 300831083 Reason: Project has no comments
+INFO:root:Unsuccessful project: 302685170 Reason: Project has no comments
+INFO:root:Unsuccessful project: 303332539 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\304305350.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 308838484 Reason: Project has no comments
+INFO:root:Unsuccessful project: 319646684 Reason: Project has no comments
+INFO:root:Unsuccessful project: 320628819 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\323087701.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 323811836 Reason: Project has no comments
+INFO:root:Unsuccessful project: 325567912 Reason: Project has no comments
+INFO:root:Unsuccessful project: 327496914 Reason: Project has no comments
+INFO:root:Unsuccessful project: 333814542 Reason: Project has no comments
+INFO:root:Unsuccessful project: 336807664 Reason: Project has no comments
+INFO:root:Unsuccessful project: 337563042 Reason: Project has no comments
+INFO:root:Unsuccessful project: 337583377 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\337862725.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 338478955 Reason: Project has no comments
+INFO:root:Unsuccessful project: 340591348 Reason: Project has no comments
+INFO:root:Unsuccessful project: 342688099 Reason: Project has no comments
+INFO:root:Unsuccessful project: 343091980 Reason: Project has no comments
+INFO:root:Unsuccessful project: 343918207 Reason: Project has no comments
+INFO:root:Unsuccessful project: 346199708 Reason: Project has no comments
+INFO:root:Unsuccessful project: 346202152 Reason: Project has no comments
+INFO:root:Unsuccessful project: 346455754 Reason: Project has no comments
+INFO:root:Unsuccessful project: 347637428 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\347689172.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 348076963 Reason: Project has no comments
+INFO:root:Unsuccessful project: 348481649 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\348769280.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 349267259 Reason: Project has no comments
+INFO:root:Unsuccessful project: 350588768 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 350841813 Reason: Project has no comments
+INFO:root:Unsuccessful project: 350975752 Reason: Project has no comments
+INFO:root:Unsuccessful project: 351439936 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\351681564.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 352191787 Reason: Project has no comments
+INFO:root:Unsuccessful project: 352547571 Reason: Project has no comments
+INFO:root:Unsuccessful project: 352800509 Reason: Project has no comments
+INFO:root:Unsuccessful project: 352902832 Reason: Project has no comments
+INFO:root:Unsuccessful project: 353206145 Reason: Project has no comments
+INFO:root:Unsuccessful project: 353266521 Reason: Project has no comments
+INFO:root:Unsuccessful project: 353294594 Reason: Project has no comments
+INFO:root:Unsuccessful project: 353332303 Reason: Project has no comments
+INFO:root:Unsuccessful project: 353409426 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 353631393 Reason: Project has no comments
+INFO:root:Unsuccessful project: 353754214 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\353897346.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 353931530 Reason: Project has no comments
+INFO:root:Unsuccessful project: 354085959 Reason: Project has no comments
+INFO:root:Unsuccessful project: 354105022 Reason: Project has no comments
+INFO:root:Unsuccessful project: 354110686 Reason: Project has no comments
+INFO:root:Unsuccessful project: 354127067 Reason: Project has no comments
+INFO:root:Unsuccessful project: 354152122 Reason: Project has no comments
+INFO:root:Unsuccessful project: 354164022 Reason: Project has no comments
+INFO:root:Unsuccessful project: 354237415 Reason: Project has no comments
+INFO:root:Unsuccessful project: 354243905 Reason: Project has no comments
+INFO:root:Unsuccessful project: 354341472 Reason: Project has no comments
+INFO:root:Unsuccessful project: 354349176 Reason: Project has no comments
+INFO:root:Unsuccessful project: 354377120 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\354386216.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 354421798 Reason: Project has no comments
+INFO:root:Unsuccessful project: 354428295 Reason: Project has no comments
+INFO:root:Unsuccessful project: 354430677 Reason: Project has no comments
+INFO:root:Unsuccessful project: 354437090 Reason: Project has no comments
+INFO:root:Unsuccessful project: 354452142 Reason: Project has no comments
+INFO:root:Unsuccessful project: 354474317 Reason: Project has no comments
+INFO:root:Unsuccessful project: 354663137 Reason: Project has no comments
+INFO:root:Unsuccessful project: 354968788 Reason: Project has no comments
+INFO:root:Unsuccessful project: 355012100 Reason: Project has no comments
+INFO:root:Unsuccessful project: 355073121 Reason: Project has no comments
+INFO:root:Unsuccessful project: 355105458 Reason: Project has no comments
+INFO:root:Unsuccessful project: 355110662 Reason: Project has no comments
+INFO:root:Unsuccessful project: 355111390 Reason: Project has no comments
+INFO:root:Unsuccessful project: 355125380 Reason: Project has no comments
+INFO:root:Unsuccessful project: 355149698 Reason: Project has no comments
+INFO:root:Unsuccessful project: 355242518 Reason: Project has no comments
+INFO:root:Unsuccessful project: 355398133 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355406251.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 355422894 Reason: Project has no comments
+INFO:root:Unsuccessful project: 355484342 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 355528992 Reason: Project has no comments
+INFO:root:Unsuccessful project: 355644988 Reason: Project has no comments
+INFO:root:Unsuccessful project: 355683973 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355702989.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 355716728 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355724407.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355725861.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 355728523 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\355739669.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 355743605 Reason: Project has no comments
+INFO:root:Unsuccessful project: 355765092 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: 355994293 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356023994 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 356046207 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356057191 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356067812.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356068053.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 356081759 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 356083559 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356094652 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356097891 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356137213 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356148661 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 356156988 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356160528 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356163038.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 356163467 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356207046 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356239204 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356260860 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356296268 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356306041 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356317888.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356317935.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 356328642 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356333635 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 356340128 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 356342395 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356375317 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356393267 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356402376 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356413500 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356451814 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356461785 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356465535 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 356466890 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356468786 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: 356488607 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356498736 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: 356511500 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356513007.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356519374.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 356567051 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356577022 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 356580103 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356588985 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356592061 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 356603435 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356699291 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356745538 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 356783424 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\356796445.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 356828600 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356955398 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356985173 Reason: Project has no comments
+INFO:root:Unsuccessful project: 356998936 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357001554 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 357016636 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357017526 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 357031329 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357065503.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 357097971 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357106186 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 357111711 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357125824 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357134863.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 357144243 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357145332 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357182139.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 357186828 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 357189195 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357200215 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357204865 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 357291774 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357304873 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357343778 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 357346942 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357373574 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357378187 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357381106 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357381699.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 357410955 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\357416943.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 357427307 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357450774 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357452849 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357456911 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357458263 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357463597 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357513678 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357577826 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357618241 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 357648341 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357659664 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357689452 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357697947 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357849158 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357866793 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: 357880413 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357891093 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357947615 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357954201 Reason: Project has no comments
+INFO:root:Unsuccessful project: 357966586 Reason: Project has no comments
+INFO:root:Unsuccessful project: 358265539 Reason: Project has no comments
+INFO:root:Unsuccessful project: 358267315 Reason: Project has no comments
+INFO:root:Unsuccessful project: 358273000 Reason: Project has no comments
+INFO:root:Unsuccessful project: 358351231 Reason: Project has no comments
+INFO:root:Unsuccessful project: 358361132 Reason: Project has no comments
+INFO:root:Unsuccessful project: 358363950 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\358575582.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 358580018 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 358622498 Reason: Project has no comments
+INFO:root:Unsuccessful project: 358629803 Reason: Project has no comments
+INFO:root:Unsuccessful project: 358638244 Reason: Project has no comments
+INFO:root:Unsuccessful project: 358650373 Reason: Project has no comments
+INFO:root:Unsuccessful project: 358656707 Reason: Project has no comments
+INFO:root:Unsuccessful project: 358687780 Reason: Project has no comments
+INFO:root:Unsuccessful project: 358765932 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 358783189 Reason: Project has no comments
+INFO:root:Unsuccessful project: 358792907 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 358800358 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 358828808 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 358833513 Reason: Project has no comments
+INFO:root:Unsuccessful project: 358844253 Reason: Project has no comments
+INFO:root:Unsuccessful project: 358861959 Reason: Project has no comments
+INFO:root:Unsuccessful project: 358867926 Reason: Project has no comments
+INFO:root:Unsuccessful project: 359171043 Reason: Project has no comments
+INFO:root:Unsuccessful project: 359200050 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\359273208.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 360286771 Reason: Project has no comments
+INFO:root:Unsuccessful project: 360510880 Reason: Project has no comments
+INFO:root:Unsuccessful project: 361410610 Reason: Project has no comments
+INFO:root:Unsuccessful project: 361726148 Reason: Project has no comments
+INFO:root:Unsuccessful project: 362209656 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\362225141.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 362225671 Reason: Project has no comments
+INFO:root:Unsuccessful project: 362239250 Reason: Project has no comments
+INFO:root:Unsuccessful project: 362259835 Reason: Project has no comments
+INFO:root:Unsuccessful project: 362298635 Reason: Project has no comments
+INFO:root:Unsuccessful project: 362314367 Reason: Project has no comments
+INFO:root:Unsuccessful project: 362329898 Reason: Project has no comments
+INFO:root:Unsuccessful project: 362343489 Reason: Project has no comments
+INFO:root:Unsuccessful project: 362384484 Reason: Project has no comments
+INFO:root:Unsuccessful project: 362403093 Reason: Project has no comments
+INFO:root:Unsuccessful project: 362403968 Reason: Project has no comments
+INFO:root:Unsuccessful project: 362443769 Reason: Project has no comments
+INFO:root:Unsuccessful project: 362445824 Reason: Project has no comments
+INFO:root:Unsuccessful project: 362453883 Reason: Project has no comments
+INFO:root:Unsuccessful project: 362455443 Reason: Project has no comments
+INFO:root:Unsuccessful project: 362481613 Reason: Project has no comments
+INFO:root:Unsuccessful project: 362498059 Reason: Project has no comments
+INFO:root:Unsuccessful project: 362916935 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 363935729 Reason: Project has no comments
+INFO:root:Unsuccessful project: 364291151 Reason: Project has no comments
+INFO:root:Unsuccessful project: 364586620 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\365195263.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 365219134 Reason: Project has no comments
+INFO:root:Unsuccessful project: 365338512 Reason: Project has no comments
+INFO:root:Unsuccessful project: 365592794 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 365929753 Reason: Project has no comments
+INFO:root:Unsuccessful project: 366322365 Reason: Project has no comments
+INFO:root:Unsuccessful project: 366904128 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\367586687.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 367601755 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\367839259.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 368052658 Reason: Project has no comments
+INFO:root:Unsuccessful project: 368425876 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 368815170 Reason: Project has no comments
+INFO:root:Unsuccessful project: 369118631 Reason: Project has no comments
+INFO:root:Unsuccessful project: 369127446 Reason: Project has no comments
+INFO:root:Unsuccessful project: 369428452 Reason: Project has no comments
+INFO:root:Unsuccessful project: 369456510 Reason: Project has no comments
+INFO:root:Unsuccessful project: 369505497 Reason: Project has no comments
+INFO:root:Unsuccessful project: 369543041 Reason: Project has no comments
+INFO:root:Unsuccessful project: 369544258 Reason: Project has no comments
+INFO:root:Unsuccessful project: 369695286 Reason: Project has no comments
+INFO:root:Unsuccessful project: 369764474 Reason: Project has no comments
+INFO:root:Unsuccessful project: 369786247 Reason: Project has no comments
+INFO:root:Unsuccessful project: 369798561 Reason: Project has no comments
+INFO:root:Unsuccessful project: 369821112 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 369851730 Reason: Project has no comments
+INFO:root:Unsuccessful project: 370042166 Reason: Project has no comments
+INFO:root:Unsuccessful project: 370080246 Reason: Project has no comments
+INFO:root:Unsuccessful project: 370094746 Reason: Project has no comments
+INFO:root:Unsuccessful project: 370097224 Reason: Project has no comments
+INFO:root:Unsuccessful project: 370099780 Reason: Project has no comments
+INFO:root:Unsuccessful project: 370111808 Reason: Project has no comments
+INFO:root:Unsuccessful project: 370162366 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 370164701 Reason: Project has no comments
+INFO:root:Unsuccessful project: 370187704 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\370210840.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 370237538 Reason: Project has no comments
+INFO:root:Unsuccessful project: 370297644 Reason: Project has no comments
+INFO:root:Unsuccessful project: 370341907 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: 370463315 Reason: Project has no comments
+INFO:root:Unsuccessful project: 370608779 Reason: Project has no comments
+INFO:root:Unsuccessful project: 370662307 Reason: Project has no comments
+INFO:root:Unsuccessful project: 370678534 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\370702092.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 370729034 Reason: Project has no comments
+INFO:root:Unsuccessful project: 370750271 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 370767326 Reason: Project has no comments
+INFO:root:Unsuccessful project: 370956331 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371011221 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371032123 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371060017 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371253968 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371355814 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371378693 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371381780 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371391105 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371396608 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371401752 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371403140 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371423362 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371437171 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371455212 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371539609 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371751347 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371760416 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371783377 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371794898 Reason: Project has no comments
+INFO:root:Unsuccessful project: 371875242 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 372060773 Reason: Project has no comments
+INFO:root:Unsuccessful project: 372064497 Reason: Project has no comments
+INFO:root:Unsuccessful project: 372072565 Reason: Project has no comments
+INFO:root:Unsuccessful project: 372075125 Reason: Project has no comments
+INFO:root:Unsuccessful project: 372078189 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 372089208 Reason: Project has no comments
+INFO:root:Unsuccessful project: 372128915 Reason: Project has no comments
+INFO:root:Unsuccessful project: 372162666 Reason: Project has no comments
+INFO:root:Unsuccessful project: 372167519 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372182910.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 372189738 Reason: Project has no comments
+INFO:root:Unsuccessful project: 372283831 Reason: Project has no comments
+INFO:root:Unsuccessful project: 372299426 Reason: Project has no comments
+INFO:root:Unsuccessful project: 372331075 Reason: Project has no comments
+INFO:root:Unsuccessful project: 372337664 Reason: Project has no comments
+INFO:root:Unsuccessful project: 372344416 Reason: Project has no comments
+INFO:root:Unsuccessful project: 372345499 Reason: Project has no comments
+INFO:root:Unsuccessful project: 372695848 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372730640.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 372758861 Reason: Project has no comments
+INFO:root:Unsuccessful project: 372775816 Reason: Project has no comments
+INFO:root:Unsuccessful project: 372777767 Reason: Project has no comments
+INFO:root:Unsuccessful project: 372819153 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 372824094 Reason: Project has no comments
+INFO:root:Unsuccessful project: 372832917 Reason: Project has no comments
+INFO:root:Unsuccessful project: 372893309 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\372973488.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 373166326 Reason: Project has no comments
+INFO:root:Unsuccessful project: 373175360 Reason: Project has no comments
+INFO:root:Unsuccessful project: 373175688 Reason: Project has no comments
+INFO:root:Unsuccessful project: 373211353 Reason: Project has no comments
+INFO:root:Unsuccessful project: 373513154 Reason: Project has no comments
+INFO:root:Unsuccessful project: 373517762 Reason: Project has no comments
+INFO:root:Unsuccessful project: 373531269 Reason: Project has no comments
+INFO:root:Unsuccessful project: 373537290 Reason: Project has no comments
+INFO:root:Unsuccessful project: 373542051 Reason: Project has no comments
+INFO:root:Unsuccessful project: 373544854 Reason: Project has no comments
+INFO:root:Unsuccessful project: 373551435 Reason: Project has no comments
+INFO:root:Unsuccessful project: 373641834 Reason: Project has no comments
+INFO:root:Unsuccessful project: 373798848 Reason: Project has no comments
+INFO:root:Unsuccessful project: 373833726 Reason: Project has no comments
+INFO:root:Unsuccessful project: 373848262 Reason: Project has no comments
+INFO:root:Unsuccessful project: 373934439 Reason: Project has no comments
+INFO:root:Unsuccessful project: 373956566 Reason: Project has no comments
+INFO:root:Unsuccessful project: 373957804 Reason: Project has no comments
+INFO:root:Unsuccessful project: 373972824 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374004108 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 374006567 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374020492 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374109072 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374226640 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374275033 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\374304268.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 374305848 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374311276 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374370823 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\374397750.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 374404888 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 374437997 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374450236 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374476899 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 374572328 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374610153 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374622812 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374629178 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374630433 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 374634085 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374641555 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374664453 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374787479 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374857664 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374861834 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374951158 Reason: Project has no comments
+INFO:root:Unsuccessful project: 374994564 Reason: Project has no comments
+INFO:root:Unsuccessful project: 375310102 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 375310510 Reason: Project has no comments
+INFO:root:Unsuccessful project: 375353466 Reason: Project has no comments
+INFO:root:Unsuccessful project: 375357916 Reason: Project has no comments
+INFO:root:Unsuccessful project: 375388712 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: 375390349 Reason: Project has no comments
+INFO:root:Unsuccessful project: 375402096 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\375409459.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 375418415 Reason: Project has no comments
+INFO:root:Unsuccessful project: 375480656 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\375662055.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 375700039 Reason: Project has no comments
+INFO:root:Unsuccessful project: 375703313 Reason: Project has no comments
+INFO:root:Unsuccessful project: 375705520 Reason: Project has no comments
+INFO:root:Unsuccessful project: 375765901 Reason: Project has no comments
+INFO:root:Unsuccessful project: 375767404 Reason: Project has no comments
+INFO:root:Unsuccessful project: 375774155 Reason: Project has no comments
+INFO:root:Unsuccessful project: 375800055 Reason: Project has no comments
+INFO:root:Unsuccessful project: 375804384 Reason: Project has no comments
+INFO:root:Unsuccessful project: 375812455 Reason: Project has no comments
+INFO:root:Unsuccessful project: 376016025 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 376035925 Reason: Project has no comments
+INFO:root:Unsuccessful project: 376095244 Reason: Project has no comments
+INFO:root:Unsuccessful project: 376122805 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376172354.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 376355667 Reason: Project has no comments
+INFO:root:Unsuccessful project: 376362476 Reason: Project has no comments
+INFO:root:Unsuccessful project: 376395596 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376398825.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 376406785 Reason: Project has no comments
+INFO:root:Unsuccessful project: 376413240 Reason: Project has no comments
+INFO:root:Unsuccessful project: 376431195 Reason: Project has no comments
+INFO:root:Unsuccessful project: 376584867 Reason: Project has no comments
+INFO:root:Unsuccessful project: 376598749 Reason: Project has no comments
+INFO:root:Unsuccessful project: 376607992 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376625370.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 376634438 Reason: Project has no comments
+INFO:root:Unsuccessful project: 376673113 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376675890.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376698079.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376726626.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 376737988 Reason: Project has no comments
+INFO:root:Unsuccessful project: 376742049 Reason: Project has no comments
+INFO:root:Unsuccessful project: 376765919 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376771503.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\376789914.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 376926604 Reason: Project has no comments
+INFO:root:Unsuccessful project: 376933809 Reason: Project has no comments
+INFO:root:Unsuccessful project: 376939615 Reason: Project has no comments
+INFO:root:Unsuccessful project: 376962011 Reason: Project has no comments
+INFO:root:Unsuccessful project: 376983801 Reason: Project has no comments
+INFO:root:Unsuccessful project: 377044543 Reason: Project has no comments
+INFO:root:Unsuccessful project: 377058498 Reason: Project has no comments
+INFO:root:Unsuccessful project: 377081662 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377209912.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 377214205 Reason: Project has no comments
+INFO:root:Unsuccessful project: 377218811 Reason: Project has no comments
+INFO:root:Unsuccessful project: 377219976 Reason: Project has no comments
+INFO:root:Unsuccessful project: 377223717 Reason: Project has no comments
+INFO:root:Unsuccessful project: 377254476 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377269164.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 377279256 Reason: Project has no comments
+INFO:root:Unsuccessful project: 377283383 Reason: Project has no comments
+INFO:root:Unsuccessful project: 377288849 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377301106.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 377503536 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377518816.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377523366.json Reason: Project is not readable maximum recursion depth exceeded while calling a Python object
+INFO:root:Unsuccessful project: 377526107 Reason: Project has no comments
+INFO:root:Unsuccessful project: 377536532 Reason: Project has no comments
+INFO:root:Unsuccessful project: 377554139 Reason: Project has no comments
+INFO:root:Unsuccessful project: 377597207 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\377687254.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 377853601 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 377890738 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: 377892724 Reason: Project has no comments
+INFO:root:Unsuccessful project: 377896607 Reason: Project has no comments
+INFO:root:Unsuccessful project: 377899407 Reason: Project has no comments
+INFO:root:Unsuccessful project: 377922725 Reason: Project has no comments
+INFO:root:Unsuccessful project: 377940546 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 377942411 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 378136506 Reason: Project has no comments
+INFO:root:Unsuccessful project: 378147080 Reason: Project has no comments
+INFO:root:Unsuccessful project: 378183749 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 378186338 Reason: Project has no comments
+INFO:root:Unsuccessful project: 378200690 Reason: Project has no comments
+INFO:root:Unsuccessful project: 378212024 Reason: Project has no comments
+INFO:root:Unsuccessful project: 378224848 Reason: Project has no comments
+INFO:root:Unsuccessful project: 378229288 Reason: Project has no comments
+INFO:root:Unsuccessful project: 378273111 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378364886.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 378367650 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 378440894 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: 378502655 Reason: Project has no comments
+INFO:root:Unsuccessful project: 378532537 Reason: Project has no comments
+INFO:root:Unsuccessful project: 378542194 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378572835.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 378586500 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378619620.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 378623693 Reason: Project has no comments
+INFO:root:Unsuccessful project: 378632898 Reason: Project has no comments
+INFO:root:Unsuccessful project: 378685582 Reason: Project has no comments
+INFO:root:Unsuccessful project: 378838826 Reason: Project has no comments
+INFO:root:Unsuccessful project: 378903152 Reason: Project has no comments
+INFO:root:Unsuccessful project: 378928717 Reason: Project has no comments
+INFO:root:Unsuccessful project: 378965637 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378975280.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 378984378 Reason: Project has no comments
+INFO:root:Unsuccessful project: 378987494 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\378997071.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 379018870 Reason: Project has no comments
+INFO:root:Unsuccessful project: 379029552 Reason: Project has no comments
+INFO:root:Unsuccessful project: 379030932 Reason: Project has no comments
+INFO:root:Unsuccessful project: 379223373 Reason: Project has no comments
+INFO:root:Unsuccessful project: 379252098 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379253657.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 379269565 Reason: Project has no comments
+INFO:root:Unsuccessful project: 379291010 Reason: Project has no comments
+INFO:root:Unsuccessful project: 379297897 Reason: Project has no comments
+INFO:root:Unsuccessful project: 379342719 Reason: Project has no comments
+INFO:root:Unsuccessful project: 379349679 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 379363920 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 379383165 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379543979.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 379575159 Reason: Project has no comments
+INFO:root:Unsuccessful project: 379581279 Reason: Project has no comments
+INFO:root:Unsuccessful project: 379589712 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\379593729.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 379616210 Reason: Project has no comments
+INFO:root:Unsuccessful project: 379633968 Reason: Project has no comments
+INFO:root:Unsuccessful project: 379649251 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 379666188 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 379670683 Reason: Project has no comments
+INFO:root:Unsuccessful project: 379703895 Reason: Project has no comments
+INFO:root:Unsuccessful project: 379951744 Reason: Project has no comments
+INFO:root:Unsuccessful project: 379970880 Reason: Project has no comments
+INFO:root:Unsuccessful project: 379980719 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\380086897.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 380274954 Reason: Project has no comments
+INFO:root:Unsuccessful project: 380339350 Reason: Project has no comments
+INFO:root:Unsuccessful project: 380355159 Reason: Project has no comments
+INFO:root:Unsuccessful project: 380357820 Reason: Project has no comments
+INFO:root:Unsuccessful project: 380449737 Reason: Project has no comments
+INFO:root:Unsuccessful project: 380475774 Reason: Project has no comments
+INFO:root:Unsuccessful project: 380555815 Reason: Project has no comments
+INFO:root:Unsuccessful project: 380580253 Reason: Project has no comments
+INFO:root:Unsuccessful project: 380596037 Reason: Project has no comments
+INFO:root:Unsuccessful project: 380697048 Reason: Project has no comments
+INFO:root:Unsuccessful project: 380724458 Reason: Project has no comments
+INFO:root:Unsuccessful project: 380728540 Reason: Project has no comments
+INFO:root:Unsuccessful project: 380734664 Reason: Project has no comments
+INFO:root:Unsuccessful project: 380771336 Reason: Project has no comments
+INFO:root:Unsuccessful project: 380776254 Reason: Project has no comments
+INFO:root:Unsuccessful project: 380792729 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\380823586.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 381809051 Reason: Project has no comments
+INFO:root:Unsuccessful project: 381854977 Reason: Project has no comments
+INFO:root:Unsuccessful project: 381856869 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 381856959 Reason: Project has no comments
+INFO:root:Unsuccessful project: 381870114 Reason: Project has no comments
+INFO:root:Unsuccessful project: 381877279 Reason: Project has no comments
+INFO:root:Unsuccessful project: 381889746 Reason: Project has no comments
+INFO:root:Unsuccessful project: 381894212 Reason: Project has no comments
+INFO:root:Unsuccessful project: 381925225 Reason: Project has no comments
+INFO:root:Unsuccessful project: 381948852 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\381953815.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 382124879 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382167841 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382187492 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382191315 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382193080 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 382209357 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382226162 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382227145 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382231472 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382387008 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382463067 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 382491901 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382548078 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382564406 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 382585785 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382587464 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 382618885 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 382623128 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382624014 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382724229 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382748337 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382769466 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382777259 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382787808 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382791923 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382795204 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382818288 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382891847 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382941343 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382957210 Reason: Project has no comments
+INFO:root:Unsuccessful project: 382976067 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 383061565 Reason: Project has no comments
+INFO:root:Unsuccessful project: 383254550 Reason: Project has no comments
+INFO:root:Unsuccessful project: 383259516 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: 383259614 Reason: Project has no comments
+INFO:root:Unsuccessful project: 383278994 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 383280806 Reason: Project has no comments
+INFO:root:Unsuccessful project: 383296464 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383302810.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 383305787 Reason: Project has no comments
+INFO:root:Unsuccessful project: 383320756 Reason: Project has no comments
+INFO:root:Unsuccessful project: 383320762 Reason: Project has no comments
+INFO:root:Unsuccessful project: 383322602 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383325871.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 383512861 Reason: Project has no comments
+INFO:root:Unsuccessful project: 383544955 Reason: Project has no comments
+INFO:root:Unsuccessful project: 383569206 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383579395.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 383604217 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383604835.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 383620703 Reason: Project has no comments
+INFO:root:Unsuccessful project: 383626987 Reason: Project has no comments
+INFO:root:Unsuccessful project: 383627659 Reason: Project has no comments
+INFO:root:Unsuccessful project: 383651598 Reason: Project has no comments
+INFO:root:Unsuccessful project: 383879332 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\383903449.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 383913275 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 383933423 Reason: Project has no comments
+INFO:root:Unsuccessful project: 383942753 Reason: Project has no comments
+INFO:root:Unsuccessful project: 383950805 Reason: Project has no comments
+INFO:root:Unsuccessful project: 383951911 Reason: Project has no comments
+INFO:root:Unsuccessful project: 383963219 Reason: Project has no comments
+INFO:root:Unsuccessful project: 383984364 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384146147 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384146831 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384193060 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 384226166 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384232579 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 384234231 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384246597 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384258279 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384268941 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384275562 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\384409001.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 384420587 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384450721 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384458437 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 384464267 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384478411 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384598269 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384599902 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384627996 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384630969 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 384634252 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 384656007 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384656818 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384678488 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 384688569 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 384746854 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384770524 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384782017 Reason: Project has less than 2 targets
+INFO:root:Unsuccessful project: 384798495 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\384818572.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 384823701 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384846351 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384860068 Reason: Project has no comments
+INFO:root:Unsuccessful project: 384860798 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 384865447 Reason: Project has no comments
+INFO:root:Unsuccessful project: 385023962 Reason: Project has no comments
+INFO:root:Unsuccessful project: 385028114 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 385046764 Reason: Project has no comments
+INFO:root:Unsuccessful project: 385046849 Reason: Project has no comments
+INFO:root:Unsuccessful project: 385050532 Reason: Project has no comments
+INFO:root:Unsuccessful project: 385085402 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\385092592.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\385121569.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 385263317 Reason: Project has no comments
+INFO:root:Unsuccessful project: 385364698 Reason: Project has no comments
+INFO:root:Unsuccessful project: 385366962 Reason: Project has no comments
+INFO:root:Unsuccessful project: 385382934 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 385398878 Reason: Project has no comments
+INFO:root:Unsuccessful project: 385410173 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 385438198 Reason: Project has no comments
+INFO:root:Unsuccessful project: 385440373 Reason: Project has no comments
+INFO:root:Unsuccessful project: 385449303 Reason: Project has no comments
+INFO:root:Unsuccessful project: 385698142 Reason: Project has no comments
+INFO:root:Unsuccessful project: 385715017 Reason: Project has no comments
+INFO:root:Unsuccessful project: 385756515 Reason: Project has no comments
+INFO:root:Unsuccessful project: 385769661 Reason: Project has no comments
+INFO:root:Unsuccessful project: 385797318 Reason: Project has no comments
+INFO:root:Unsuccessful project: 385798191 Reason: Project has no comments
+INFO:root:Unsuccessful project: 385824953 Reason: Project has no comments
+INFO:root:Unsuccessful project: 386093461 Reason: Project has no comments
+INFO:root:Unsuccessful project: 386096198 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386098682.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 386111586 Reason: Project has no comments
+INFO:root:Unsuccessful project: 386119727 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386193975.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 386407802 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 386410554 Reason: Project has no comments
+INFO:root:Unsuccessful project: 386413275 Reason: Project has no comments
+INFO:root:Unsuccessful project: 386430550 Reason: Project has no comments
+INFO:root:Unsuccessful project: 386452646 Reason: Project has no comments
+INFO:root:Unsuccessful project: 386547475 Reason: Project has no comments
+INFO:root:Unsuccessful project: 386593484 Reason: Project has no comments
+INFO:root:Unsuccessful project: 386596347 Reason: Project has no comments
+INFO:root:Unsuccessful project: 386644729 Reason: Project has no comments
+INFO:root:Unsuccessful project: 386646270 Reason: Project has no comments
+INFO:root:Unsuccessful project: 386651466 Reason: Project has no comments
+INFO:root:Unsuccessful project: 386668429 Reason: Project has no comments
+INFO:root:Unsuccessful project: 386707740 Reason: Project has no comments
+INFO:root:Unsuccessful project: 386768249 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386780140.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 386815984 Reason: Project has no comments
+INFO:root:Unsuccessful project: 386851847 Reason: Project has no comments
+INFO:root:Unsuccessful project: 386867519 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Unsuccessful project: 386884106 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\386906490.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 386906725 Reason: Project has no comments
+INFO:root:Unsuccessful project: 386917693 Reason: Project has no comments
+INFO:root:Unsuccessful project: 387160543 Reason: Project has no comments
+INFO:root:Unsuccessful project: 387205612 Reason: Project has no comments
+INFO:root:Unsuccessful project: C:\Users\Isabella\Documents\Masterthesis\Code\samples\sample\randomsample\387209779.json Reason: Project is not readable 'list' object has no attribute 'get'
+INFO:root:Unsuccessful project: 387231789 Reason: Project has no comments
+INFO:root:Number of processed projects: 1000 Elapsed Time: 57.290902614593506 sec, ETA: 57.34825086545897sec
+INFO:root:Unsuccessful project: 387310911 Reason: Fetch Project from Api did not work, reason: Project not found
+INFO:root:Total Number of successful projects 286
